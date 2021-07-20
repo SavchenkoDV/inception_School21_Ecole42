@@ -22,7 +22,7 @@ This project aims to broaden your knowledge of system administration by using Do
 8. NGINX - dockerfile, nginx, config, openssl:<br>
 &emsp; 8.1. Устновливем nginx и openssl.<br>
 &emsp; 8.2. Подписываем сертификат openssl.<br>
-&emsp; 8.3. Изменияем конфиг nginx: etc/nginx/sites-enabled/defaul. <a href="https://serveradmin.ru/ustanovka-i-nastrojka-nginx/">Ссылка для общего понимания.</a> В href="https://serveradmin.ru/ustanovka-i-nastrojka-nginx/">документации</a> все написанно, прийдеться покопаться:<br>
+&emsp; 8.3. Изменияем конфиг nginx: etc/nginx/sites-enabled/defaul. <a href="https://serveradmin.ru/ustanovka-i-nastrojka-nginx/">Ссылка для общего понимания.</a> В <a href="https://serveradmin.ru/ustanovka-i-nastrojka-nginx/">документации</a> все написанно, прийдеться покопаться:<br>
 &emsp; &emsp; 8.3.1. <a href="https://nginx.org/ru/docs/beginners_guide.html">Синтаксис конфига.</a><br>
 &emsp; &emsp; 8.3.2. Ищем info в интернете, как добавить в config nginx: ssl_portocol TLSv1.2, TLSv1.3 и ssl_certificate.<br>
 &emsp; 8.4. Запускаем контейнер, demon off.
