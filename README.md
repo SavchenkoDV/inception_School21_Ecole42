@@ -1,7 +1,7 @@
 # inception_School21_Ecole42
 This project aims to broaden your knowledge of system administration by using Docker. You will virtualize several Docker images, creating them in your new personal virtual machine.
 
-<img width="1901" alt="Screen Shot 2021-06-10 at 6 20 20 PM" src="https://user-images.githubusercontent.com/78852244/121551783-999a8a80-ca18-11eb-8b3a-d833b28399f4.png">
+<img width="705" alt="example#1" src="https://user-images.githubusercontent.com/78852244/126368155-d1450b9c-82f4-41b4-a41d-28ebe119f6b6.png">
 
 Предисловие:
 ---------------------------------------------------------------------------------------------------------------------------------
