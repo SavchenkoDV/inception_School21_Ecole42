@@ -11,8 +11,8 @@ This project aims to broaden your knowledge of system administration by using Do
 4. Устанавливаем VIM, MAKE, GIT и другик программы, плагины необходимые для работы.
 5. Меняем в Ubuntu хосты: vim /etc/hosts далее меняем localhost на ****.42.fr.
 6. Создаем Makefile:<br>
-    &emsp 6.1. Задаем общие настройки Makefile - для удобства сборки и пересборки контейнеров:<br>
-       &emsp&emsp 6.1.1. Запуск контейнеров.<br>
+    &emsp; 6.1. Задаем общие настройки Makefile - для удобства сборки и пересборки контейнеров:<br>
+       &emsp; &emsp; 6.1.1. Запуск контейнеров.<br>
         6.1.2. Отключение.<br>
         6.1.3. Удаление и очистка всего.
 7. <a href="https://dker.ru/docs/docker-compose/compose-file-reference">Создаем файл docker-compose.yml:</a><br>
