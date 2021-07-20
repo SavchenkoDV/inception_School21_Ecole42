@@ -3,6 +3,15 @@ This project aims to broaden your knowledge of system administration by using Do
 
 <img width="1901" alt="Screen Shot 2021-06-10 at 6 20 20 PM" src="https://user-images.githubusercontent.com/78852244/121551783-999a8a80-ca18-11eb-8b3a-d833b28399f4.png">
 
+Предисловие:
+---------------------------------------------------------------------------------------------------------------------------------
+
+Данный мануал - это мои пошаговые действия, каким образом я действовал и что читал. <br>
+Все ссылки, которые здесь предоставлены - это не полная информация, так же я пользовался StackOverflow и другими источниками. <br>
+Вместе с тем данные ссылки мне дали общее понимание, как все устроено и искать информацию стало просто. <br>
+
+---------------------------------------------------------------------------------------------------------------------------------
+
 Реализация VirtualBox - Ubuntu 20.04, Containers - debian:buster:
 ---------------------------------------------------------------------------------------------------------------------------------
 1. <a href="https://losst.ru/kak-polzovatsya-virtualbox#2_%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B2%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D1%8B">Создаем виртуалуальную машину Ubuntu.</a>
@@ -36,7 +45,7 @@ This project aims to broaden your knowledge of system administration by using Do
 10. WORDPRESS - dockerfile, wordpress, php, wp-config, php-fpm, ввв.conf: <br>
 &emsp; 10.1. <a href="https://ru.wordpress.org/about/requirements/">Для работы wordpress требуется.</a> <br>
 &emsp; 10.2. <a href="http://xandeadx.ru/blog/php/866">Устанавливаем php и php-fpm.</a><br>
-&emsp; 10.3. <a href="https://www.php.net/manual/ru/install.fpm.configuration.php">Настраиваем ввв.conf и цепляем к ngixn: /etc/php/x.x/fpm/pool.d</a> <br>
+&emsp; 10.3. Настраиваем <a href="https://www.php.net/manual/ru/install.fpm.configuration.php">ввв.conf</a> и цепляем к ngixn: /etc/php/x.x/fpm/pool.d<br>
 &emsp; 10.4. <a href="https://codex.wordpress.org/%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0_WordPress#Using_the_MySQL_Client) - wp-config (https://techlist.top/ustanovka-wordpress-odnoj-knopkoj/">Устанавливаем wordpress: /etc/php/x.x/fpm/pool.d</a>  <br>
 &emsp; 10.5. <a href="https://linux.die.net/man/8/php-fpm">Запускаем.</a>
 ---------------------------------------------------------------------------------------------------------------------------------
