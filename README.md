@@ -33,10 +33,10 @@ This project aims to broaden your knowledge of system administration by using Do
 &emsp; &emsp; 9.2.1. host_name должен быть либо %, либо Вы должны задать его принудительно и использовать его имя.<br>
 &emsp; 9.3. Настраиваем 50-server.cnf - закрываем локальные хосты открываем 3306.<br>
 &emsp; 9.4. Запускаем.
-10. WORDPRESS - dockerfile, wordpress, php, php-fpm, wp-config, www.conf:<br>
+10. WORDPRESS - dockerfile, wordpress, php, wp-config, php-fpm, ввв.conf: <br>
 &emsp; 10.1. <a href="https://ru.wordpress.org/about/requirements/">Для работы wordpress требуется.</a> <br>
 &emsp; 10.2. <a href="http://xandeadx.ru/blog/php/866">Устанавливаем php и php-fpm.</a><br>
-&emsp; 10.3. <a href="https://www.php.net/manual/ru/install.fpm.configuration.php">Настраиваем www.conf и цепляем к ngixn: /etc/php/x.x/fpm/pool.d</a> <br>
+&emsp; 10.3. <a href="https://www.php.net/manual/ru/install.fpm.configuration.php">Настраиваем ввв.conf и цепляем к ngixn: /etc/php/x.x/fpm/pool.d</a> <br>
 &emsp; 10.4. <a href="https://codex.wordpress.org/%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0_WordPress#Using_the_MySQL_Client) - wp-config (https://techlist.top/ustanovka-wordpress-odnoj-knopkoj/">Устанавливаем wordpress: /etc/php/x.x/fpm/pool.d</a>  <br>
 &emsp; 10.5. <a href="https://linux.die.net/man/8/php-fpm">Запускаем.</a>
 ---------------------------------------------------------------------------------------------------------------------------------
